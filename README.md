@@ -15,10 +15,10 @@ Motivated Computer Science Engineering student with a strong foundation in full-
 ## EDUCATION
 * **B.Tech in Computer Science & Engineering** | 2023 - 2027
   *APJ Abdul Kalam Technological University (KTU) / SNGCE*
-* **Higher Secondary (CBSE)** | [Insert Year]
-  *[Insert School Name]*
-* **Secondary School (ICSE)** | [Insert Year]
-  *[Insert School Name]*
+* **Higher Secondary (CBSE)** | 2023
+  *St. Matthew's Mission School, Udaipur*
+* **Secondary School (ICSE)** | 2021
+  *Don Bosco School, Katihar*
 
 ---
 
